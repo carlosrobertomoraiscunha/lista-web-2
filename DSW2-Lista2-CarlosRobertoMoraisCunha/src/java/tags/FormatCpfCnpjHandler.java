@@ -23,7 +23,7 @@ public class FormatCpfCnpjHandler extends SimpleTagSupport {
                 out.write(formatCnpj(value));
             }
         } catch (java.io.IOException ex) {
-            throw new JspException("Error in formatCpfCnpjHandler tag", ex);
+            throw new JspException("Error in FormatCpfCnpjHandler tag", ex);
         }
     }
 
