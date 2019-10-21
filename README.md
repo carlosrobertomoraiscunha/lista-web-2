@@ -8,9 +8,9 @@
 
     C) Criar uma lista não ordenada em HTML com os números primos entre dois valores informados pelo usuário através de atributos. 
 
-| Nome                        | Simplificado | Clássico | Arquivo TAG |
-| --------------------------- |------------- | -------- | ----------- |
-| Carlos Roberto Morais Cunha | A            | B        | C           |
+    | Nome                        | Simplificado | Clássico | Arquivo TAG |
+    | --------------------------- |------------- | -------- | ----------- |
+    | Carlos Roberto Morais Cunha | A            | B        | C           |
 
 Observações:
 
